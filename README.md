@@ -1,3 +1,3 @@
-![Video Thumbnail](https://github.com/wass08/r3f-sims-online/assets/6551176/04d46084-97b9-4c3e-be45-6fbb381cae09)
+![Video Thumbnail](https://github.com/wass08/r3f-sims-online-part-2/assets/6551176/ef9ac90d-e369-4e11-bdd1-7b12f21b71a1)
 
-[Video tutorial](https://youtu.be/uLv1Zu8GyUw)
+[Video tutorial](https://youtu.be/ALlk9cNRA1s)
